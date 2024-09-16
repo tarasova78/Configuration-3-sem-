@@ -22,3 +22,14 @@
 ```
 ![3](https://github.com/user-attachments/assets/13e6b338-b240-4d84-9a26-0aa3958d8f42)
 
+
+## Задача 3 : Написать программу banner средствами bash для вывода текстов, как в следующем примере (размер баннера должен меняться!):
+
+
+
+```
+[root@localhost ~]# ./banner "Hello from RTU MIREA!"
++-----------------------+
+| Hello from RTU MIREA! |
++-----------------------+
+```

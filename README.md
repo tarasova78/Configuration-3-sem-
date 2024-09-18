@@ -1,5 +1,4 @@
-![Screenshot_20](https://github.com/user-attachments/assets/94754efb-aa76-43e0-bfb8-df6ee034fb47)
-![Screenshot_19](https://github.com/user-attachments/assets/263ba09c-c1d8-4a38-8cbb-d7b8143d3afd)
+
 # Configuration 3 sem
 Конфигурационное управление (3 семестр)
 Преподаватель: Мирзоян Дмитрий Ильич

@@ -35,3 +35,14 @@
 ```
 
 ![Screenshot_18](https://github.com/user-attachments/assets/a4154bd6-2c88-4b96-aacf-eecb3e56e8a7)
+
+
+## Задача 4
+
+Написать программу для вывода всех идентификаторов (по правилам C/C++ или Java) в файле (без повторений).
+
+Пример для hello.c:
+
+```
+h hello include int main n printf return stdio void world
+```

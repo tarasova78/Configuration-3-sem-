@@ -53,3 +53,15 @@ h hello include int main n printf return stdio void world
 
 ![Screenshot_20](https://github.com/user-attachments/assets/a04f2dd3-ef4f-4382-9c6b-4b44fded886b)
 
+
+## Задача 5
+
+Написать программу для регистрации пользовательской команды (правильные права доступа и копирование в /usr/local/bin).
+
+Например, пусть программа называется reg:
+
+```
+./reg banner
+```
+
+В результате для banner задаются правильные права доступа и сам banner копируется в /usr/local/bin.
